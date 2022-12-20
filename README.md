@@ -1,0 +1,2 @@
+# Predict-Customer-Personality-To-Boost-Marketing-Campaign-By-Using-Machine-Learning
+Process historical marketing campaign data to improve performance and target the right customers so they can transact on the company's platform. The process carried out is processing data, cleaning data, creating machine learning models, and drawing conclusions and business insights that can be recommended regarding the ongoing marketing campaign
